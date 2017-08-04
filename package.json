@@ -1,0 +1,26 @@
+{
+  "name": "autodownloadinstagramimageandvideo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "autodown":"node index puffie_the_chow"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vingo/autoDownloadInstagramImageAndVideo.git"
+  },
+  "keywords": [
+    "autodown"
+  ],
+  "author": "vingo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vingo/autoDownloadInstagramImageAndVideo/issues"
+  },
+  "homepage": "https://github.com/vingo/autoDownloadInstagramImageAndVideo#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2"
+  }
+}
