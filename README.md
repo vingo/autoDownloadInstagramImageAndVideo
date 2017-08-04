@@ -12,9 +12,10 @@ notes:
          end_cursor : next id cursor.
 steps:
 
-1. open terminal command :
-2. npm run autodown
-3. watch created directory and include files.
+1. open terminal command 
+2. npm install
+3. npm run autodown
+4. watch created directory and include files.
 
 
 
